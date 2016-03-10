@@ -1,0 +1,1 @@
+Sistema que permite en control, gestion y programacion diaria de obras de actividades de campo; como construccion, mantenimiento, distribucion, etc.
